@@ -1,0 +1,9 @@
+Define a class 'Rectange' in 'Rectangle.java'. The class need a contructor that takes width and height as double type.
+Adds methods equals(), compareTo(), toString() so that it works as shown in 'MyArrayObjDemo.java'.
+Ignore the difference by rotation and consider a Rectange(2,5) and a Rectangle(5,2) are equal.
+Use their areas to compare for ordering.
+
+Define a class 'RightTriangle' in 'RightTriangle.java'. The class need a contructor that takes two sides as double type.
+Adds methods equals(), compareTo(), toString() so that it works as shown in 'MyArrayObjDemo.java'.
+Ignore the difference by rotation and consider a RightTriangle(3,4) and a RightTriangle(4,3) are equal
+Use their perimeters to compare for ordering.
