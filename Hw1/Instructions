@@ -1,0 +1,14 @@
+
+1. Implement a function ‘displayMonth(int numDays, int startCol) that takes two integer arguments - 
+number of days in the month and column where 1st day starts - and displays 7 days per line as below. 
+Test the function in main() of HW1.java. Use of tab “\t” will be useful for alignment. (10 points)
+
+
+2. Implement a function ‘drawHollowSquareWithSymbol(char symbol, int size)’ that takes a symbol as 
+character and size as integer and draws a hollow square of the given ‘size’ using the given ‘symbol’ 
+(HINT: using if-else statement in a nested-loop to check if it is on boundary would be an easy way to solve it). 
+In order to have the square more accurate ratio between width and height, use an extra space ‘ ’ each time print the symbol. 
+Test the function in main() of HW1.java. Following are example test code and its output. (10 points)
+
+
+
