@@ -3,6 +3,8 @@ package HW1;
 public class Hw1 {
     static int day = 1; //position of date, reset at beginning of displayMonth
     public static void displayMonth(int numDays, int startCol){
+        /*Display a monthly calendar based on number of days and the day of the week
+        it starts on.*/
 
         System.out.println("SUN\tMON\tTUE\tWED\tTHU\tFRI\tSAT");
 
@@ -31,6 +33,7 @@ public class Hw1 {
 
     }//end displayMonth
     public static void drawHollowSquareWithSymbol(char symbol, int size){
+        /* Draws a square outline while leaving the middle blank it applicable.*/
 
         int line = size;
         for(int j = 0; j < size; j++) {
